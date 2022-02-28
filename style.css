@@ -1,0 +1,17 @@
+body {
+  padding-top: 12%;
+  background-color: royalblue;
+  text-align: center; 
+  font-family: Arial;
+}
+h2 {
+  color: blue;
+}
+button {
+  background-color: rgb(100,100,255); 
+  color: white; 
+  border: 5px; 
+}
+.move {
+  padding-left: 35.9%;
+}
