@@ -1,4 +1,4 @@
-# Forest-Fire-Detection
+# Forest Fire Detection
 This repository is about detecting the forest fire through images by using web application as user interface.
 
 <h2>Demonstration</h2>
